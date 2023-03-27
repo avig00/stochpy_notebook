@@ -1,1 +1,1 @@
-# stochpy_notebook
+The purpose of this repository is to explore coding and plotting using StochPy, an open-source Python package for modeling and simulating stochastic processes, particularly those naturally found in biological (cellular) systems. 
